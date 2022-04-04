@@ -5,7 +5,7 @@ Tutorial available [here](https://youtu.be/Kwm4Edvlqhw)
 
 # LICENSE
 
-```md
+```
 MIT License
 
 Copyright (c) 2022 Nejdet Kadir Bektaş
